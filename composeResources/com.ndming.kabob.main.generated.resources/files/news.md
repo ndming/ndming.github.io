@@ -1,3 +1,4 @@
+- 2025.09.26# Paper on *GS-2M: Gaussian Splatting for Joint Mesh Reconstruction and Material Decomposition* submitted to [arXiv](https://arxiv.org/abs/2509.22276).
 - 2025.09.03# Graduated Class of COSI 2025 (MSc) with top honors: **highest distinction** track record and **first-ranked** Master's thesis.
 - 2025.08.15# Published GS-2M project page, check it out [here](https://ndming.github.io/publications/gs2m/).
 - 2025.07.15# Completion of Master's thesis on *Mesh Reconstruction via Differential Rendering Pipelines*.
