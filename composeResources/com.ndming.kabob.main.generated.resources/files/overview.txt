@@ -1,1 +1,1 @@
-My research interests lie in 3D vision and neural rendering, particularly for real-time applications in resource-constrained systems. My work also intersects computer graphics algorithms for photorealistic rendering and generative models for visual computing.
+My research interests lie in 3D vision for machine perception, particularly in real-time and resource-constrained systems. My work also intersects generative models for scene generation and computer graphics algorithms for photorealistic rendering.
