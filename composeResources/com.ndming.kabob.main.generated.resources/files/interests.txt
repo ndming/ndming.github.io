@@ -1,0 +1,2 @@
+3D reconstruction: 3D Gaussian splatting, neural radiance fields, neural signed-distance functions
+High-performance graphics: physically-based rendering, global illumination, ray tracing

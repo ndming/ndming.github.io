@@ -1,1 +1,1 @@
-My research interests lie in 3D vision for machine perception, particularly in real-time and resource-constrained systems. My work also intersects generative models for scene generation and computer graphics algorithms for photorealistic rendering.
+I am a researcher and engineer working at the intersection of 3D vision and computer graphics. My expertise spans 3D reconstruction, neural rendering, real-time graphics, and GPU programming with Vulkan/CUDA.
