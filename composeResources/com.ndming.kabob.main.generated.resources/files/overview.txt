@@ -1,1 +1,1 @@
-I am a researcher and engineer working at the intersection of 3D vision and computer graphics. My expertise spans 3D reconstruction, neural rendering, real-time graphics, and GPU programming with Vulkan/CUDA.
+I am a research engineer working at the intersection of 3D vision and computer graphics. My expertise spans 3D reconstruction, neural rendering, real-time graphics, and GPU programming with Vulkan/CUDA.
